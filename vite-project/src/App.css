@@ -1,0 +1,13 @@
+.Zcontainer{
+  background-color: rgb(38, 38, 187);
+  width: 650px;
+  text-wrap: nowrap;
+  height: 60px;
+
+}
+h1{
+  color: #ffffff;
+  font-size: 3rem;
+  position: absolute;
+  margin-top: -35px;
+}
