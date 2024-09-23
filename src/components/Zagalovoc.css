@@ -1,0 +1,14 @@
+.zagalovoc{
+    margin-top: 400px;
+    width: 1880px;
+    height: 200px;
+  }
+  .blu{
+    width: 620px;
+    height: 50px;
+    background-color: #2E2BD0;
+  }
+  h1{
+    position: absolute;
+    text-wrap: nowrap;
+  }
