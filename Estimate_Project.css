@@ -1,0 +1,21 @@
+.Estimate_Project_button_container{
+    width: 1800px;
+    height: 300px;
+}
+.Estimate_Project_button{
+    width: 200px;
+    height: 200px;
+    border: solid 1px white;
+    border-radius: 100%;
+    background-color: hsla(208, 100%, 97%, 0);
+    color: white;
+    font-size: 2rem;
+    font-weight: 100;
+    cursor: pointer;
+    transform: scale(0.8);
+    transition: 0.3s;
+}
+.Estimate_Project_button:hover{
+    transform: scale(1);
+    transition: 0.3s;
+}
