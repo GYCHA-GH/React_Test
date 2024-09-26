@@ -22,16 +22,19 @@ ul{
   border-bottom: solid 1px white;
   padding: 40px 40px 0px 0px;
 }
-button{
-  margin-left: 0px;
+
+.Lbutton{
+  margin-left: 200px;
+  border-left: solid 1px white;
+  padding-left: 100px;
+  padding-right: 20px;
+}
+.buttonHeader{
+  margin-left: 200px;
   width: 200px;
   height: 70px;
-  background-color: rgb(49, 49, 166);
+  background-color: #2E2BD0;
   border-radius: 20px;
-}
-.Lbutton{
-  margin-left: 20px;
-  border-left: solid 1px white;
-  padding-left: 20px;
-  padding-right: 20px;
+  color: white;
+  font-size: 1.5rem;
 }
